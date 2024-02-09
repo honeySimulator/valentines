@@ -9,7 +9,7 @@
     ]
   },
   {
-    "question": "When was Next.js released?",
+    "question": "В какой стране я хочу провести медовый месяц?",
     "answerOptions": [
       { "answer": "20 September 2019" },
       { "answer": "14 January 2017" },

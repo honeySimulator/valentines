@@ -2,7 +2,7 @@
   <section class="sea" @scroll="handleScroll">
     <div class="container">
       <div class="content">
-        <h1 class="scrollnimate" :data-magic-number="4 - scrollMagicNumber">Hello Parallax</h1>
+        <h1 class="scrollnimate" :data-magic-number="4 - scrollMagicNumber">Сколько пленок мы отсняли вместе?</h1>
         <p class="scrollnimate" :data-magic-number="4 - scrollMagicNumber">This p tag will scroll too, however the image is static</p>
         <Parallaxy
             debug
